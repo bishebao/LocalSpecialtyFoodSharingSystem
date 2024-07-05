@@ -1,0 +1,2 @@
+# LocalSpecialtyFoodSharingSystem
+ 基于SpringBoot Vue地方特色美食分享系统
